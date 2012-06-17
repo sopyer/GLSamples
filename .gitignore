@@ -1,0 +1,12 @@
+Debug
+debug
+Release
+release
+ipch
+Temp
+temp
+*.suo
+*.ncb
+*.user
+*.opensdf
+*.sdf
