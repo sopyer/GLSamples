@@ -909,7 +909,7 @@
   <RmRegistryBranch NAME="RM_REGISTRY" API="" XML_VERSION="RenderMonkey 1.71">
    <RmRegistryBranch NAME="RM_LOCAL" API="" XML_VERSION="RenderMonkey 1.71">
     <RmRegistryBranch NAME="RM_PLUGIN" API="" XML_VERSION="RenderMonkey 1.71"><RmTextDataBlock TYPE="TEXT"><![CDATA[
-<DockingPaneLayouts><Application_Layout><Pane-1><Type>2</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><Horiz>1</Horiz><Pane-1>2</Pane-1><Pane-2>3</Pane-2><Panes>2</Panes></Pane-1><Pane-2><Type>1</Type><DockingCX>435</DockingCX><DockingCY>110</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-2><Pane-3><Type>2</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><Horiz>0</Horiz><Pane-1>4</Pane-1><Pane-2>10</Pane-2><Panes>2</Panes></Pane-3><Pane-4><Type>2</Type><DockingCX>0</DockingCX><DockingCY>535</DockingCY><Horiz>1</Horiz><Pane-1>5</Pane-1><Pane-2>7</Pane-2><Pane-3>8</Pane-3><Panes>3</Panes></Pane-4><Pane-5><Type>1</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Selected>6</Selected><Panes>1</Panes><Pane-1>6</Pane-1></Pane-5><Pane-6><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Workspace</Title><ID>1000</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>5</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>5</LastHolder></Pane-6><Pane-7><Type>4</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY></Pane-7><Pane-8><Type>1</Type><DockingCX>342</DockingCX><DockingCY>250</DockingCY><Selected>9</Selected><Panes>1</Panes><Pane-1>9</Pane-1></Pane-8><Pane-9><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Artist Editor</Title><ID>1001</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>8</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>8</LastHolder></Pane-9><Pane-10><Type>1</Type><DockingCX>250</DockingCX><DockingCY>92</DockingCY><Selected>11</Selected><Panes>1</Panes><Pane-1>11</Pane-1></Pane-10><Pane-11><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Output</Title><ID>1002</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>10</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>10</LastHolder></Pane-11><Pane-12><Type>0</Type><DockingCX>435</DockingCX><DockingCY>110</DockingCY><Title>uEPS</Title><ID>1100</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>2</DockingHolder><FloatingHolder>15</FloatingHolder><LastHolder>15</LastHolder></Pane-12><Pane-13><Type>3</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><TopContaner>14</TopContaner><WindowRectTopPos>22</WindowRectTopPos><WindowRectBottomPos>132</WindowRectBottomPos><WindowRectLeftPos>0</WindowRectLeftPos><WindowRectRightPos>435</WindowRectRightPos></Pane-13><Pane-14><Type>2</Type><DockingCX>435</DockingCX><DockingCY>110</DockingCY><Horiz>1</Horiz><Pane-1>15</Pane-1><Panes>1</Panes></Pane-14><Pane-15><Type>1</Type><DockingCX>435</DockingCX><DockingCY>110</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-15><Summary><TopContainer>1</TopContainer><Client>7</Client><Panes>15</Panes></Summary></Application_Layout></DockingPaneLayouts>
+<DockingPaneLayouts><Application_Layout><Pane-1><Type>2</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><Horiz>1</Horiz><Pane-1>2</Pane-1><Pane-2>3</Pane-2><Pane-3>4</Pane-3><Panes>3</Panes></Pane-1><Pane-2><Type>1</Type><DockingCX>339</DockingCX><DockingCY>178</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-2><Pane-3><Type>1</Type><DockingCX>435</DockingCX><DockingCY>110</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-3><Pane-4><Type>2</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><Horiz>0</Horiz><Pane-1>5</Pane-1><Pane-2>11</Pane-2><Panes>2</Panes></Pane-4><Pane-5><Type>2</Type><DockingCX>0</DockingCX><DockingCY>592</DockingCY><Horiz>1</Horiz><Pane-1>6</Pane-1><Pane-2>8</Pane-2><Pane-3>9</Pane-3><Panes>3</Panes></Pane-5><Pane-6><Type>1</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Selected>7</Selected><Panes>1</Panes><Pane-1>7</Pane-1></Pane-6><Pane-7><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Workspace</Title><ID>1000</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>6</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>6</LastHolder></Pane-7><Pane-8><Type>4</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY></Pane-8><Pane-9><Type>1</Type><DockingCX>224</DockingCX><DockingCY>250</DockingCY><Selected>10</Selected><Panes>1</Panes><Pane-1>10</Pane-1></Pane-9><Pane-10><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Artist Editor</Title><ID>1001</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>9</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>9</LastHolder></Pane-10><Pane-11><Type>1</Type><DockingCX>250</DockingCX><DockingCY>35</DockingCY><Selected>12</Selected><Panes>1</Panes><Pane-1>12</Pane-1></Pane-11><Pane-12><Type>0</Type><DockingCX>250</DockingCX><DockingCY>250</DockingCY><Title>Output</Title><ID>1002</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>11</DockingHolder><FloatingHolder>0</FloatingHolder><LastHolder>11</LastHolder></Pane-12><Pane-13><Type>0</Type><DockingCX>435</DockingCX><DockingCY>110</DockingCY><Title>uEPS</Title><ID>1100</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>3</DockingHolder><FloatingHolder>16</FloatingHolder><LastHolder>16</LastHolder></Pane-13><Pane-14><Type>3</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><TopContaner>15</TopContaner><WindowRectTopPos>22</WindowRectTopPos><WindowRectBottomPos>132</WindowRectBottomPos><WindowRectLeftPos>0</WindowRectLeftPos><WindowRectRightPos>435</WindowRectRightPos></Pane-14><Pane-15><Type>2</Type><DockingCX>435</DockingCX><DockingCY>110</DockingCY><Horiz>1</Horiz><Pane-1>16</Pane-1><Panes>1</Panes></Pane-15><Pane-16><Type>1</Type><DockingCX>435</DockingCX><DockingCY>110</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-16><Pane-17><Type>0</Type><DockingCX>339</DockingCX><DockingCY>178</DockingCY><Title>uResolution</Title><ID>1101</ID><IconID>-1</IconID><Options>0</Options><DockingHolder>2</DockingHolder><FloatingHolder>20</FloatingHolder><LastHolder>20</LastHolder></Pane-17><Pane-18><Type>3</Type><DockingCX>0</DockingCX><DockingCY>0</DockingCY><TopContaner>19</TopContaner><WindowRectTopPos>22</WindowRectTopPos><WindowRectBottomPos>200</WindowRectBottomPos><WindowRectLeftPos>0</WindowRectLeftPos><WindowRectRightPos>339</WindowRectRightPos></Pane-18><Pane-19><Type>2</Type><DockingCX>339</DockingCX><DockingCY>178</DockingCY><Horiz>1</Horiz><Pane-1>20</Pane-1><Panes>1</Panes></Pane-19><Pane-20><Type>1</Type><DockingCX>339</DockingCX><DockingCY>178</DockingCY><Selected>0</Selected><Panes>0</Panes></Pane-20><Summary><TopContainer>1</TopContainer><Client>8</Client><Panes>20</Panes></Summary></Application_Layout></DockingPaneLayouts>
 ]]></RmTextDataBlock>
      <RmRegistryBranch NAME="RmPreviewDx9Window" API="" XML_VERSION="RenderMonkey 1.71"/>
      <RmRegistryBranch NAME="RmPreviewGLESWindow" API="" XML_VERSION="RenderMonkey 1.71"/>
@@ -919,8 +919,8 @@
        <RmRegistryBranch NAME="Effect Workspace.Guided filter techniques.Guided Filter" API="" XML_VERSION="RenderMonkey 1.71">
         <RmIntegerVariable NAME="X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="0" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="0" MIN="-10" MAX="10" CLAMP="FALSE"/>
-        <RmIntegerVariable NAME="Width" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="350" MIN="-10" MAX="10" CLAMP="FALSE"/>
-        <RmIntegerVariable NAME="Height" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="350" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Width" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="876" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Height" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="562" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="ShowStatus" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="1" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="Visible" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="1" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="Minimized X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
@@ -1027,6 +1027,26 @@
         <RmIntegerVariable NAME="Minimized X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
         <RmIntegerVariable NAME="Minimized Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
        </RmRegistryBranch>
+       <RmRegistryBranch NAME="Effect Workspace.Guided filter techniques.Guided Filter.meanA" API="" XML_VERSION="RenderMonkey 1.71">
+        <RmIntegerVariable NAME="X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="258" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="114" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Width" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="210" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Height" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="356" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="ShowStatus" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="1" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Visible" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="0" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Minimized X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Minimized Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
+       </RmRegistryBranch>
+       <RmRegistryBranch NAME="Effect Workspace.Guided filter techniques.Guided Filter.meanB" API="" XML_VERSION="RenderMonkey 1.71">
+        <RmIntegerVariable NAME="X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="258" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="114" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Width" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="210" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Height" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="356" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="ShowStatus" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="1" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Visible" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="0" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Minimized X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmIntegerVariable NAME="Minimized Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
+       </RmRegistryBranch>
       </RmRegistryBranch>
      </RmRegistryBranch>
      <RmRegistryBranch NAME="RmRenderTargetEditor" API="" XML_VERSION="RenderMonkey 1.71">
@@ -1052,9 +1072,9 @@ Fragment Program]]></RmTextDataBlock></RmStringVariable>
        <RmStringVariable NAME="Editing Pass" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC=""><RmTextDataBlock TYPE="TEXT"><![CDATA[
 Result]]></RmTextDataBlock></RmStringVariable>
        <RmIntegerVariable NAME="Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="0" MIN="-10" MAX="10" CLAMP="FALSE"/>
-       <RmIntegerVariable NAME="Width" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="650" MIN="-10" MAX="10" CLAMP="FALSE"/>
-       <RmIntegerVariable NAME="Height" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="463" MIN="-10" MAX="10" CLAMP="FALSE"/>
-       <RmIntegerVariable NAME="ShowStatus" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="3" MIN="-10" MAX="10" CLAMP="FALSE"/>
+       <RmIntegerVariable NAME="Width" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="876" MIN="-10" MAX="10" CLAMP="FALSE"/>
+       <RmIntegerVariable NAME="Height" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="511" MIN="-10" MAX="10" CLAMP="FALSE"/>
+       <RmIntegerVariable NAME="ShowStatus" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="1" MIN="-10" MAX="10" CLAMP="FALSE"/>
        <RmIntegerVariable NAME="Visible" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="1" MIN="-10" MAX="10" CLAMP="FALSE"/>
        <RmIntegerVariable NAME="Minimized X" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
        <RmIntegerVariable NAME="Minimized Y" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="-1" MIN="-10" MAX="10" CLAMP="FALSE"/>
@@ -1118,107 +1138,59 @@ Result]]></RmTextDataBlock></RmStringVariable>
        </RmRegistryBranch>
       </RmRegistryBranch>
      </RmRegistryBranch>
+     <RmRegistryBranch NAME="RmDynamicVariableEditor" API="" XML_VERSION="RenderMonkey 1.71">
+      <RmRegistryBranch NAME="NodeRepository" API="" XML_VERSION="RenderMonkey 1.71">
+       <RmRegistryBranch NAME="Effect Workspace.Guided filter techniques.Guided Filter.uResolution" API="" XML_VERSION="RenderMonkey 1.71">
+        <RmIntegerVariable NAME="DockPaneID" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="1101" MIN="-10" MAX="10" CLAMP="FALSE"/>
+        <RmBooleanVariable NAME="ShowSetup" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VALUE="TRUE"/>
+       </RmRegistryBranch>
+      </RmRegistryBranch>
+     </RmRegistryBranch>
     </RmRegistryBranch>
     <RmRegistryBranch NAME="WORKSPACE" API="" XML_VERSION="RenderMonkey 1.71">
      <RmStringVariable NAME="LAST_SAVE" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC=""><RmTextDataBlock TYPE="TEXT"><![CDATA[
-8/12/2012 16:24:8]]></RmTextDataBlock></RmStringVariable>
+9/12/2012 11:27:10]]></RmTextDataBlock></RmStringVariable>
      <RmStringVariable NAME="VERSION" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC=""><RmTextDataBlock TYPE="TEXT"><![CDATA[
 RenderMonkey Version 1.82 (build 322)]]></RmTextDataBlock></RmStringVariable>
      <RmStringVariable NAME="XML_VERSION" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC=""><RmTextDataBlock TYPE="TEXT"><![CDATA[
 RenderMonkey 1.71]]></RmTextDataBlock></RmStringVariable>
      <RmStringVariable NAME="BASE_WORKSPACE_PATH" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC=""><RmTextDataBlock TYPE="TEXT"><![CDATA[
-K:\projects\graphics\GLSamples\Effect Prototypes\]]></RmTextDataBlock></RmStringVariable>
+K:\projects\Graphics\GLSamples\Effect Prototypes\]]></RmTextDataBlock></RmStringVariable>
     </RmRegistryBranch>
    </RmRegistryBranch>
   </RmRegistryBranch>
   <RmEffectGroup NAME="Guided filter techniques" API="">
    <RmOpenGLEffect NAME="Guided Filter" API="OpenGL" ACTIVE_CAMERA="Camera">
-    <Rm2DTextureVariable NAME="P" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="C:\Program Files (x86)\AMD\RenderMonkey 1.82\Examples\Media\Textures\Coin.dds" ORIGIN="0"/>
-    <RmRenderableTexture NAME="I" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="50" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="IxP" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="IxI" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="81" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="meanI" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="50" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="meanP" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="21" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="meanIxP" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="meanIxI" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="81" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="A" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="B" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="256" HEIGHT="256" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="meanA" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="21" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="TRUE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
-    <RmRenderableTexture NAME="meanB" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="21" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="TRUE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmDynamicVariable NAME="uResolution" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" VARIABLE_TYPE="FLOAT" ROWS="2" COLUMNS="1" FIXED_SIZE="TRUE" MIN="-1.000000" MAX="1.000000" CLAMP="FALSE" NORMALIZE="FALSE">
+     <RmDynamicVariableValueContainer>
+      <RmDynamicVariableValue ROW_INDEX="0" COLUMN_INDEX="0" VALUE="512.000000"/>
+      <RmDynamicVariableValue ROW_INDEX="1" COLUMN_INDEX="0" VALUE="512.000000"/>
+     </RmDynamicVariableValueContainer>
+    </RmDynamicVariable>
+    <Rm2DTextureVariable NAME="P" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="C:\Program Files (x86)\AMD\RenderMonkey 1.82\Examples\Media\Textures\FieldstoneNoisy.tga" ORIGIN="0"/>
+    <RmRenderableTexture NAME="IxP" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="IxI" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="81" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="meanI" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="meanP" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="meanIxP" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="meanIxI" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="81" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="A" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="B" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="meanA" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="meanB" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="36" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
+    <RmRenderableTexture NAME="I" API="" ARTIST_EDITABLE="FALSE" VARIABLE_SEMANTIC="" FILE_NAME="" ORIGIN="0" WIDTH="512" HEIGHT="512" FORMAT="50" USE_VIEWPORT_DIMENSIONS="FALSE" GENERATE_MIPMAPS="FALSE" WIDTH_RATIO="1.000000" HEIGHT_RATIO="1.000000"/>
     <RmStreamMap NAME="Stream Mapping" API="">
      <RmStream NAME="Stream" API="" STRIDE="12">
       <RmStreamChannel NAME="Position_0" API="" DATA_SIZE="12" DATA_TYPE="2" REGISTER="0" USAGE="0" USAGE_INDEX="0" ATTRIBUTE_NAME="aVertex"/>
      </RmStream>
     </RmStreamMap>
     <RmModelData NAME="FullscreenTri" API="" FILE_NAME=".\FullscreenTri.obj" ORIENTATION="1"/>
-    <RmGLPass NAME="Generate B" API="OpenGL" PASS_INDEX="8" ENABLED="TRUE">
-     <RmModelReference NAME="FullscreenTri" API=""/>
-     <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
-
-out vec2 vUV;
-
-void main()
-{
-    vUV         = aVertex * vec2(0.5, 0.5) + vec2(0.5, 0.5);
-    gl_Position = vec4(aVertex, 0.0, 1.0);
-}
-]]></RmShaderCode></RmGLShader>
-     <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
-
-uniform sampler2D samMeanP;
-uniform sampler2D samMeanI;
-uniform sampler2D samA;
-
-uniform float uEPS;
-
-void main(void)
-{
-   float meanI   = texture2D(samMeanI, vUV).x;
-   vec3  meanP   = texture2D(samMeanP, vUV).xyz;
-   vec3  a       = texture2D(samA,     vUV).xyz;
-   
-   vec3  b = meanP - a * meanI;
-   
-   gl_FragColor = vec4( b, 1.0 );
-}]]></RmShaderCode></RmGLShader>
-     <RmRenderTarget NAME="B" API="" INDEX="0" RENDER_TO_SCREEN="FALSE" COLOR_CLEAR="TRUE" DEPTH_CLEAR="TRUE" CLEAR_COLOR_VALUE="-16777216" DEPTH_CLEAR_VALUE="1.000000"/>
-     <RmStreamMapReference NAME="Stream Mapping" API=""/>
-     <RmTextureObject NAME="samA" API="OpenGL" STATE_INDEX="0" VERTEX_TEXTURE="FALSE">
-      <RmTextureReference NAME="A" API=""/>
-      <RmState NAME="GL_TextureMinify" API="OpenGL" STATE="4" VALUE="0" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureMagnify" API="OpenGL" STATE="5" VALUE="0" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapS" API="OpenGL" STATE="1" VALUE="2" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapT" API="OpenGL" STATE="2" VALUE="2" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
-     </RmTextureObject>
-     <RmTextureObject NAME="samMeanI" API="OpenGL" STATE_INDEX="1" VERTEX_TEXTURE="FALSE">
-      <RmTextureReference NAME="meanI" API=""/>
-      <RmState NAME="GL_TextureMinify" API="OpenGL" STATE="4" VALUE="0" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureMagnify" API="OpenGL" STATE="5" VALUE="0" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapS" API="OpenGL" STATE="1" VALUE="2" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapT" API="OpenGL" STATE="2" VALUE="2" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
-     </RmTextureObject>
-     <RmTextureObject NAME="samMeanP" API="OpenGL" STATE_INDEX="2" VERTEX_TEXTURE="FALSE">
-      <RmTextureReference NAME="meanP" API=""/>
-      <RmState NAME="GL_TextureMinify" API="OpenGL" STATE="4" VALUE="0" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureMagnify" API="OpenGL" STATE="5" VALUE="0" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapS" API="OpenGL" STATE="1" VALUE="2" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapT" API="OpenGL" STATE="2" VALUE="2" USAGE="SAMPLER_STATE"/>
-      <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
-     </RmTextureObject>
-     <RmSampler NAME="samA" API="" REGISTER="-1"/>
-     <RmSampler NAME="samMeanI" API="" REGISTER="-1"/>
-     <RmSampler NAME="samMeanP" API="" REGISTER="-1"/>
-    </RmGLPass>
     <RmGLPass NAME="mean(A)" API="OpenGL" PASS_INDEX="9" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1227,14 +1199,15 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
 uniform sampler2D samA;
 
-const vec2 texelSize = vec2(1.0/256.0, 1.0/256.0);
+uniform vec2 uResolution;
 
 void main()
 { 
+    vec2 texelSize = vec2(1.0/uResolution);
     vec3 color;
     
     color  = 1.0/25.0 * texture2D(samA, vUV).xyz;
@@ -1262,13 +1235,14 @@ void main()
       <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
      </RmTextureObject>
      <RmSampler NAME="samA" API="" REGISTER="-1"/>
+     <RmShaderConstant NAME="uResolution" API="" REGISTER="-1"/>
     </RmGLPass>
     <RmGLPass NAME="mean(B)" API="OpenGL" PASS_INDEX="10" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1277,14 +1251,15 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
 uniform sampler2D samB;
 
-const vec2 texelSize = vec2(1.0/256.0, 1.0/256.0);
+uniform vec2 uResolution;
 
 void main()
 { 
+    vec2 texelSize = vec2(1.0/uResolution);
     vec3 color;
     
     color  = 1.0/25.0 * texture2D(samB, vUV).xyz;
@@ -1312,13 +1287,14 @@ void main()
       <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
      </RmTextureObject>
      <RmSampler NAME="samB" API="" REGISTER="-1"/>
+     <RmShaderConstant NAME="uResolution" API="" REGISTER="-1"/>
     </RmGLPass>
     <RmGLPass NAME="Result" API="OpenGL" PASS_INDEX="11" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1327,7 +1303,7 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
 uniform sampler2D samMeanA;
 uniform sampler2D samMeanB;
@@ -1377,9 +1353,9 @@ void main(void)
     <RmGLPass NAME="Generate Guide" API="OpenGL" PASS_INDEX="0" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
-layout(binding = 0) uniform sampler2D samSource;
+uniform sampler2D samSource;
 
 const vec3 eyeSensitivity = vec3(0.3086, 0.6094, 0.0820);
 
@@ -1391,9 +1367,9 @@ void main()
     gl_FragColor =  vec4(grey, grey, grey, 1.0);
 }]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1416,9 +1392,9 @@ void main()
     <RmGLPass NAME="Generate I.*P" API="OpenGL" PASS_INDEX="1" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1427,10 +1403,10 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
-layout(binding = 0) uniform sampler2D samSource;
-layout(binding = 1) uniform sampler2D samGuide;
+uniform sampler2D samSource;
+uniform sampler2D samGuide;
 
 void main()
 {
@@ -1463,9 +1439,9 @@ void main()
     <RmGLPass NAME="Generate I.*I" API="OpenGL" PASS_INDEX="2" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1474,9 +1450,9 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
-layout(binding = 1) uniform sampler2D samGuide;
+uniform sampler2D samGuide;
 
 void main()
 {
@@ -1499,9 +1475,9 @@ void main()
     <RmGLPass NAME="mean(I)" API="OpenGL" PASS_INDEX="3" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1510,14 +1486,15 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
 uniform sampler2D samGuide;
 
-const vec2 texelSize = vec2(1.0/256.0, 1.0/256.0);
+uniform vec2 uResolution;
 
 void main()
 { 
+    vec2 texelSize = vec2(1.0/uResolution);
     vec3 color;
     
     color  = 1.0/25.0 * texture2D(samGuide, vUV).xyz;
@@ -1545,13 +1522,14 @@ void main()
       <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
      </RmTextureObject>
      <RmSampler NAME="samGuide" API="" REGISTER="-1"/>
+     <RmShaderConstant NAME="uResolution" API="" REGISTER="-1"/>
     </RmGLPass>
     <RmGLPass NAME="mean(p)" API="OpenGL" PASS_INDEX="4" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1560,14 +1538,15 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
 uniform sampler2D samSource;
 
-const vec2 texelSize = vec2(1.0/256.0, 1.0/256.0);
+uniform vec2 uResolution;
 
 void main()
 { 
+    vec2 texelSize = vec2(1.0/uResolution);
     vec3 color;
     
     color  = 1.0/25.0 * texture2D(samSource, vUV).xyz;
@@ -1595,13 +1574,14 @@ void main()
       <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
      </RmTextureObject>
      <RmSampler NAME="samSource" API="" REGISTER="-1"/>
+     <RmShaderConstant NAME="uResolution" API="" REGISTER="-1"/>
     </RmGLPass>
     <RmGLPass NAME="mean(I.*p)" API="OpenGL" PASS_INDEX="5" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1610,14 +1590,15 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
 uniform sampler2D samIxP;
 
-const vec2 texelSize = vec2(1.0/256.0, 1.0/256.0);
+uniform vec2 uResolution;
 
 void main()
 { 
+    vec2 texelSize = vec2(1.0/uResolution);
     vec3 color;
     
     color  = 1.0/25.0 * texture2D(samIxP, vUV).xyz;
@@ -1645,13 +1626,14 @@ void main()
       <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
      </RmTextureObject>
      <RmSampler NAME="samIxP" API="" REGISTER="-1"/>
+     <RmShaderConstant NAME="uResolution" API="" REGISTER="-1"/>
     </RmGLPass>
     <RmGLPass NAME="mean(I.*I)" API="OpenGL" PASS_INDEX="6" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1660,14 +1642,15 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
 uniform sampler2D samIxI;
 
-const vec2 texelSize = vec2(1.0/256.0, 1.0/256.0);
+uniform vec2 uResolution;
 
 void main()
 { 
+    vec2 texelSize = vec2(1.0/uResolution);
     vec3 color;
     
     color  = 1.0/25.0 * texture2D(samIxI, vUV).xyz;
@@ -1695,13 +1678,14 @@ void main()
       <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
      </RmTextureObject>
      <RmSampler NAME="samIxI" API="" REGISTER="-1"/>
+     <RmShaderConstant NAME="uResolution" API="" REGISTER="-1"/>
     </RmGLPass>
     <RmGLPass NAME="Generate A" API="OpenGL" PASS_INDEX="7" ENABLED="TRUE">
      <RmModelReference NAME="FullscreenTri" API=""/>
      <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
-layout(location = 0) in vec2 aVertex;
+attribute vec2 aVertex;
 
-out vec2 vUV;
+varying vec2 vUV;
 
 void main()
 {
@@ -1710,7 +1694,7 @@ void main()
 }
 ]]></RmShaderCode></RmGLShader>
      <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
-in vec2 vUV;
+varying vec2 vUV;
 
 uniform sampler2D samMeanP;
 uniform sampler2D samMeanI;
@@ -1773,6 +1757,68 @@ void main(void)
      <RmSampler NAME="samMeanIxP" API="" REGISTER="-1"/>
      <RmSampler NAME="samMeanP" API="" REGISTER="-1"/>
      <RmShaderConstant NAME="uEPS" API="" REGISTER="-1"/>
+    </RmGLPass>
+    <RmGLPass NAME="Generate B" API="OpenGL" PASS_INDEX="8" ENABLED="TRUE">
+     <RmModelReference NAME="FullscreenTri" API=""/>
+     <RmGLShader NAME="Vertex Program" API="OpenGL" PIXEL_SHADER="FALSE"><RmShaderCode TYPE="TEXT"><![CDATA[
+attribute vec2 aVertex;
+
+varying vec2 vUV;
+
+void main()
+{
+    vUV         = aVertex * vec2(0.5, 0.5) + vec2(0.5, 0.5);
+    gl_Position = vec4(aVertex, 0.0, 1.0);
+}
+]]></RmShaderCode></RmGLShader>
+     <RmGLShader NAME="Fragment Program" API="OpenGL" PIXEL_SHADER="TRUE"><RmShaderCode TYPE="TEXT"><![CDATA[
+varying vec2 vUV;
+
+uniform sampler2D samMeanP;
+uniform sampler2D samMeanI;
+uniform sampler2D samA;
+
+uniform float uEPS;
+
+void main(void)
+{
+   float meanI   = texture2D(samMeanI, vUV).x;
+   vec3  meanP   = texture2D(samMeanP, vUV).xyz;
+   vec3  a       = texture2D(samA,     vUV).xyz;
+   
+   vec3  b = meanP - a * meanI;
+   
+   gl_FragColor = vec4( b, 1.0 );
+}]]></RmShaderCode></RmGLShader>
+     <RmRenderTarget NAME="B" API="" INDEX="0" RENDER_TO_SCREEN="FALSE" COLOR_CLEAR="TRUE" DEPTH_CLEAR="TRUE" CLEAR_COLOR_VALUE="-16777216" DEPTH_CLEAR_VALUE="1.000000"/>
+     <RmStreamMapReference NAME="Stream Mapping" API=""/>
+     <RmTextureObject NAME="samA" API="OpenGL" STATE_INDEX="0" VERTEX_TEXTURE="FALSE">
+      <RmTextureReference NAME="A" API=""/>
+      <RmState NAME="GL_TextureMinify" API="OpenGL" STATE="4" VALUE="0" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureMagnify" API="OpenGL" STATE="5" VALUE="0" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapS" API="OpenGL" STATE="1" VALUE="2" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapT" API="OpenGL" STATE="2" VALUE="2" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
+     </RmTextureObject>
+     <RmTextureObject NAME="samMeanI" API="OpenGL" STATE_INDEX="1" VERTEX_TEXTURE="FALSE">
+      <RmTextureReference NAME="meanI" API=""/>
+      <RmState NAME="GL_TextureMinify" API="OpenGL" STATE="4" VALUE="0" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureMagnify" API="OpenGL" STATE="5" VALUE="0" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapS" API="OpenGL" STATE="1" VALUE="2" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapT" API="OpenGL" STATE="2" VALUE="2" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
+     </RmTextureObject>
+     <RmTextureObject NAME="samMeanP" API="OpenGL" STATE_INDEX="2" VERTEX_TEXTURE="FALSE">
+      <RmTextureReference NAME="meanP" API=""/>
+      <RmState NAME="GL_TextureMinify" API="OpenGL" STATE="4" VALUE="0" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureMagnify" API="OpenGL" STATE="5" VALUE="0" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapS" API="OpenGL" STATE="1" VALUE="2" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapT" API="OpenGL" STATE="2" VALUE="2" USAGE="SAMPLER_STATE"/>
+      <RmState NAME="GL_TextureWrapR" API="OpenGL" STATE="3" VALUE="2" USAGE="SAMPLER_STATE"/>
+     </RmTextureObject>
+     <RmSampler NAME="samA" API="" REGISTER="-1"/>
+     <RmSampler NAME="samMeanI" API="" REGISTER="-1"/>
+     <RmSampler NAME="samMeanP" API="" REGISTER="-1"/>
     </RmGLPass>
    </RmOpenGLEffect>
   </RmEffectGroup>
